@@ -1,7 +1,6 @@
-# Mybatis摸索之路
+# ZKRush
 
 
-> 这是我自己的笔记啊啊啊啊
+> Zero Knowledge For Everyone
 
-[CSDN](https://blog.csdn.net/Aphysia)
-[滚动鼠标](#introduction)
+[ZKRush](https://www.google.com/)
