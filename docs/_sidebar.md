@@ -1,9 +1,14 @@
-- [- 挖矿教程](_document/MinerTutorial.md)
+- **☞挖矿教程**
+  - **ALEO** 
+    - [- ALEO测试网挖矿教程](_document/aleo_testnet.md)
 
-  - [- ALEO测试网挖矿教程](_document/aleo_testnet.md)
-
-- [- 网站教程](_document/WebTutorial.md)
-
-  - [- 添加/隐藏/删除挖矿账号](_document/miner_account.md)
-
-- [- 公告中心](_document/NoticeCenter.md)
+- **☞网站教程**
+  - **主账户**
+    - [- 注册/登录主账户](_document/account_login.md)
+    - [- 修改/重置密码-未完成](_document/reset_passwd.md)
+    - [- 双重验证-未完成](_document/mfa_authentication.md)
+    - [- 手机验证-未完成](_document/phone_authentication.md)
+    - [- 防钓鱼码-未完成](_document/fish_code.md)
+  - **挖矿账号**
+    - [- 添加/隐藏/删除挖矿账号](_document/miner_account.md)
+- **☞公告中心**

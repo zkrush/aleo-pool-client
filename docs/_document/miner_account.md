@@ -1,8 +1,8 @@
 # 添加/隐藏/删除挖矿账号
 
-在[ZKRush](https://www.zkrush.com)登录**主账号**后，点击右上角头像进入**账户设置**
+在[ZKRush](https://www.zkrush.com)官网登录**主账号**后，点击右上角头像进入**账户设置**
 
-<img src="../_media/enter_account_setting.png" alt="alt add_miner_account"  />
+<img src="../_media/enter_account_setting.png" alt="alt add_miner_account" style="zoom:50%;" />
 
 
 
