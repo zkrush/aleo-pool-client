@@ -1,6 +1,6 @@
-# ZKRush
-
+![alt ZKRush](_media/home_page.svg)
 
 > Zero Knowledge For Everyone
 
-[ZKRush](https://www.google.com/)
+[ZKRush](https://www.zkrush.com/)
+[Get Started](/_document/TutorialCenter)
