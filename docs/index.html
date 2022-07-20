@@ -14,11 +14,29 @@
   <script>
     window.$docsify = {
       name: 'ZKRush Document',
+
       repo: 'https://github.com/zkrush/aleo-pool-client.git',
+
       coverpage: true,
-      loadSidebar: true
-    }
+
+      loadSidebar: true,
+
+      search: "auto",
+      search: {
+        maxAge: 86400000,
+        placeholder: "🔍   Type to search",
+        noData: "No Results For This",
+        depth: 6,
+        hideOtherSidebarContent: false
+      },
+    };
   </script>
+  // 全文搜索插件
+  <script src="//cdn.bootcss.com/docsify/4.5.9/plugins/search.min.js"></script>
+  // 图片缩放插件
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+  // 复制代码块插件
+  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
 </body>

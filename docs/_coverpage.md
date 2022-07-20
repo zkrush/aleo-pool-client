@@ -3,4 +3,4 @@
 > Zero Knowledge For Everyone
 
 [ZKRush](https://www.zkrush.com/)
-[Get Started](/_document/TutorialCenter)
+[Get Started](README.md)
