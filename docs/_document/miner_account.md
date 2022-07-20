@@ -2,7 +2,7 @@
 
 在[ZKRush](https://www.zkrush.com)官网登录**主账号**后，点击右上角头像进入**账户设置**
 
-<img src="../_media/enter_account_setting.png" alt="alt add_miner_account" style="zoom:50%;" />
+![alt enter_account_setting](../_media/enter_account_setting.png)
 
 
 
@@ -16,7 +16,7 @@
 >
 > *可以添加并修改账号备注*
 
-<img src="../_media/add_miner_account.png" alt="alt add_miner_account"  />
+![alt add_miner_account](../_media/add_miner_account.png)
 
 
 
@@ -26,7 +26,7 @@
 
 2、在**已隐藏账户**中，点击**取消隐藏**，即可恢复隐藏账户
 
-<img src="../_media/hide_miner_account.png" alt="alt hide_miner_account"  /><img src="../_media/recover_hide_miner_account.png" alt="alt recover_hide_miner_account"  />
+![alt hide_miner_account](../_media/hide_miner_account.png)
 
 
 
@@ -38,13 +38,4 @@
 >
 > *⚠️ 挖矿账号删除后无法恢复，对应记录也会被删除；删除的挖矿账号无法被再次注册，请谨慎操作；*
 
-<img src="../_media/delete_miner_account.png" alt="alt delete_miner_account"  />
-
-
-
-
-
-
-
-
-
+![alt delete_miner_account](../_media/delete_miner_account.png)

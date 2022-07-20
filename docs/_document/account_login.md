@@ -10,7 +10,7 @@
 
 3、[ZKRush](https://www.zkrush.com)会给您发送一封带有账户激活链接的邮件，点击邮件中的链接完成注册激活。
 
-<img src="../_media/signup.png" alt="alt signup" style="zoom:50%;" />
+![alt signup](../_media/signup.png)
 
 ## 登录账户
 
@@ -20,4 +20,4 @@
 
 > ⚠️如您开启双重验证或手机验证，根据后续提示输入您的验证码后完成操作。
 
-<img src="../_media/login.png" alt="alt login" style="zoom:50%;" />
+![alt login](../_media/login.png)
