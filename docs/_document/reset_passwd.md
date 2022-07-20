@@ -9,7 +9,6 @@
 
 2、进入**账户设置**页面，选择**安全设置**
 
-<img src="../_media/enter_reset_passwd.png" alt="alt enter_reset_passwd" style="zoom:50%;" />
 ![alt enter_reset_passwd](../_media/enter_reset_passwd.png)
 
 3、选择**密码登录**右侧的修改
