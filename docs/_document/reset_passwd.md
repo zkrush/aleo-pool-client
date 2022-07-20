@@ -15,7 +15,7 @@
 
 4、按照提示，输入老密码、新密码、确认密码，点击**修改密码**
 
-![alt reset_passwd](../_media/reset_passwd.png =200x)
+![alt reset_passwd](../_media/reset_passwd.png ':size=10%')
 
 > ⚠️如您开启双重验证或手机验证，根据后续提示输入您的验证码后完成操作。
 
