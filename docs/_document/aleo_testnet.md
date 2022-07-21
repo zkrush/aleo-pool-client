@@ -24,9 +24,10 @@ stratum+tcp://aleo.zkrush.com:3030
 
  1、客户端下载地址: https://github.com/zkrush/aleo-pool-client/releases
 
-选择适合您操作系统的版本
+> 选择适合您操作系统的版本
+>
 
-![alt github_release](../_media/github_release.png)
+![alt github_release](../_media/github_release.png ':size=80%')
 
 
 
