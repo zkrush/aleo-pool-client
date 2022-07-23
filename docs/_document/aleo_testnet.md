@@ -47,7 +47,7 @@ aleo-pool-client --dest=47.241.247.18:3030 run --miner-account testaccount001 --
 
 ### 2、GUI启动方式
 
-【保留】
+【敬请期待】
 
 
 

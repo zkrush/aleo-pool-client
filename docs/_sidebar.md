@@ -6,15 +6,17 @@
     - [- 注册/登录](_document/account_login.md)
     - [- 修改/忘记密码](_document/reset_passwd.md)
     - [- 双重验证](_document/mfa_authentication.md)
-    - [- 手机验证-未完成](_document/phone_authentication.md)
-    - [- 防钓鱼码-未完成](_document/fish_code.md)
+    - [- 手机验证](_document/phone_authentication.md)
+    - [- 防钓鱼码](_document/fish_code.md)
   - **挖矿账号**
     - [- 添加/隐藏/删除挖矿账号](_document/miner_account.md)
   - **矿工管理**
-    - [- 矿工算力-未完成](_document/miner_hashrate.md)
-    - [- 矿工分组-未完成](_document/miner_group.md)
+    - [- 矿工算力](_document/miner_hashrate.md)
+    - [- 矿工分组](_document/miner_group.md)
   - **收益**
-    - [- 待定](_document/earnings.md)
   - **首页**
-    - [- 待定](_document/home_page.md)
+    - [- 首页信息](_document/home_page.md)
 - **☞公告中心**
+  - [- 联系我们](_document/contact_us.md)
+  - [- 关于我们](_document/about_us.md)
+  - [- 我们的优势](_document/our_advantage.md)
