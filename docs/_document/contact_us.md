@@ -6,7 +6,7 @@ https://twitter.com/zkrush_official
 
 ## Discord
 
-https://discord.gg/8FSkJyTyJS
+https://discord.gg/bjTBEMzQKG
 
 ## Support机器人
 
