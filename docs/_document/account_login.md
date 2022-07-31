@@ -1,25 +1,25 @@
-# 注册/登录主账户
+# 註冊/登錄主賬戶
 
-> ***主账户是您访问[ZKRush](https://www.zkrush.com)的唯一凭据，登录后才能访问网站的全部功能。您可以按照以下流程进行注册和登录。***
+> ***主賬戶是您訪問[ZKRush](https://www.zkrush.com)的唯一憑據，登錄後才能訪問網站的全部功能。您可以按照以下流程進行註冊和登錄。***
 
-## 注册账户
+## 註冊賬戶
 
-1、打开[ZKRush](https://www.zkrush.com)官网，点击右上角进行注册；或直接访问[注册页面](https://www.zkrush.com/signUp)。
+1、打開[ZKRush](https://www.zkrush.com)官網，點擊右上角進行註冊；或直接訪問[註冊頁面](https://www.zkrush.com/signUp)。
 
-2、填写您的**邮箱**、**密码**提交注册。
+2、填寫您的**郵箱**、**密碼**提交註冊。
 
-3、[ZKRush](https://www.zkrush.com)会给您发送一封带有账户激活链接的邮件，点击邮件中的**链接**完成注册激活。
+3、ZKRush會給您發送一封帶有賬戶激活鏈接的郵件，點擊郵件中的**鏈接**完成註冊激活。
 
 ![alt signup](../_media/signup.png ':size=40%')
 
 
 
-## 登录账户
+## 登錄賬戶
 
-1、打开[ZKRush](https://www.zkrush.com)官网，点击右上角进行登录；或直接访问[登录页面](https://www.zkrush.com/login)。
+1、打開[ZKRush](https://www.zkrush.com)官網，點擊右上角進行登錄；或直接訪問[登錄頁面](https://www.zkrush.com/login)。
 
-2、输入您的**账户**（邮箱），**密码**提交登录。
+2、輸入您的**郵箱**、**密碼**提交登錄。
 
-> ***⚠️如您开启双重验证或手机验证，根据后续提示输入您的验证码后完成操作。***
+> ***⚠️如您開啟雙重驗證，根據後續提示輸入您的驗證碼後完成操作。***
 
 ![alt login](../_media/login.png ':size=40%')

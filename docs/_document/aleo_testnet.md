@@ -1,53 +1,70 @@
-# ALEO测试网挖矿教程
+# ALEO測試網挖礦教程
 
-## 支持设备
+## 支持設備
 
-操作系统：Window、Linux
+操作系統：Window、Linux
 
 GPU：N卡
 
 
 
-## 矿池节点地址
+## 礦池節點地址
 
-stratum+tcp://aleo.zkrush.com:3030
-
-
-
-## 一、添加挖矿账号
-
-1、 参考文档 [添加挖矿账号](/_document/miner_account?id=添加挖矿账号)
+ws://aleo.zkrush.com:3030
 
 
 
-## 二、获取挖矿客户端
+## 1、添加挖礦賬號
 
- 1、客户端下载地址: https://github.com/zkrush/aleo-pool-client/releases
+1.1、參考文檔 [添加挖礦賬號](/_document/miner_account?id=添加挖礦賬號)
 
-> 选择适合您操作系统的版本
+
+
+## 2、獲取挖礦客戶端
+
+ 2.1、客戶端下載地址: https://github.com/zkrush/aleo-pool-client/releases
+
+> ***選擇適合您操作系統的版本***
 >
+> ***aleo-pool-cllient是ZKRush自研發的aleo挖礦程序，針對GPU/CPU挖礦都進行了大量優化***
 
-![alt github_release](../_media/github_release.png ':size=80%')
+![alt github_release](../_media/github_release.png ':size=50%')
 
 
 
-## 三、启动挖矿客户端
+## 3、啟動挖礦客戶端
 
-### 1、CLI启动方式
+### 3.1、CLI啟動方式
 
 ```shell
-aleo-pool-client --dest=47.241.247.18:3030 run --miner-account testaccount001 --owner-name testserver001
-
---dest             #矿池节点地址
---miner-account    #挖矿账号
---owner-name       #主机名，默认为default
+# CPU挖礦
+./aleo-pool-client --dest=ws://aleo.zkrush.com:3030 run --miner-account=zkrush001 --owner-name=server001
 ```
 
+```shell
+# GPU挖礦
+FORCE_GPU_MINER=1 CUDA_VISIBLE_DEVICES=0 ./aleo-pool-client --dest=ws://aleo.zkrush.com:3030 run --miner-account=zkrush001 --owner-name=server001
+```
+
+**環境變量：**
+
+FORCE_GPU_MINER=1 #指定1為開啟GPU，默認為0
+
+CUDA_VISIBLE_DEVICES=0 #指定GPU卡運行，從0開始；多卡主機分別啟動多個進程
+
+**啟動參數：**
+
+--dest=ws://aleo.zkrush.com:3030 #礦池節點地址
+
+--miner-account=zkrush001 #挖礦賬號
+
+--owner-name=server001 #主機名，默認為default
 
 
-### 2、GUI启动方式
 
-【敬请期待】
+### 3.2、GUI啟動方式
+
+【敬請期待】
 
 
 

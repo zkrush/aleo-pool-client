@@ -1,4 +1,4 @@
-# 联系我们
+# 聯繫我們
 
 ## Twitter
 
@@ -8,6 +8,11 @@ https://twitter.com/zkrush_official
 
 https://discord.gg/bjTBEMzQKG
 
-## Support机器人
+## Medium
 
-点击ZKRush官网右下角直接与我们取得联系
+https://medium.com/@zkrush
+
+## Support機器人
+
+點擊ZKRush官網右下角直接與我們取得聯繫
+
