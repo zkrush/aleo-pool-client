@@ -10,8 +10,6 @@ GPU：N卡
 
 ## 礦池節點地址
 
-ws://aleo.zkrush.com:3030
-
 wss://aleo.zkrush.com:3333
 
 
