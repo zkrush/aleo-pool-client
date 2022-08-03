@@ -12,6 +12,8 @@ GPU：N卡
 
 ws://aleo.zkrush.com:3030
 
+wss://aleo.zkrush.com:3333
+
 
 
 ## 1、添加挖礦賬號

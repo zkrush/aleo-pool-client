@@ -12,6 +12,8 @@ GPU：Nvidia Series
 
 ws://aleo.zkrush.com:3030
 
+wss://aleo.zkrush:3333
+
 
 
 ## 1.Add Mininng Account
