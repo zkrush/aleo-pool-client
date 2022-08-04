@@ -95,7 +95,7 @@ CUDA_VISIBLE_DEVICES #指定GPU卡運行，從0開始；多卡主機分別啟動
 
 ### 4.2 aleo-pool-client
 
-使用代理節點後，aleo-pool-client程序在啟動時，只需要指定代理節點的IP和Port即可，例如：
+> 使用代理節點後，aleo-pool-client程序在啟動時，只需要指定代理節點的IP和Port即可，例如：
 
 ```shell
 ./aleo-pool-client --proxy="<代理節點IP地址>:4040"

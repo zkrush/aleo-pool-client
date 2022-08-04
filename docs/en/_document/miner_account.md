@@ -8,7 +8,7 @@ After logging in to the master account on [ZKRush](https://www.zkrush.com), clic
 
 ## Add Mining Account
 
-1.Visit **Account Settings**, select **Mining Account** sector, and lastly, click on **Add** to complete the procedure.
+1. Visit **Account Settings**, select **Mining Account** sector, and lastly, click on **Add** to complete the procedure.
 
 > ***All mining account usernames are unique on ZKrush***
 >
@@ -26,16 +26,16 @@ After logging in to the master account on [ZKRush](https://www.zkrush.com), clic
 
 ## Hide/Unhide Mining Account
 
-1.Visit **Mining Account** in **Account Settings**, select More and then click on **Hide Account**.
+1. Visit **Mining Account** in **Account Settings**, select More and then click on **Hide Account**.
 
-2.Select **Hidden Account** and click on **Unhide** button on the right to recover.![alt hide_miner_account](../_media/hide_miner_account.png ':size=80%')
+2. Select **Hidden Account** and click on **Unhide** button on the right to recover.![alt hide_miner_account](../_media/hide_miner_account.png ':size=80%')
 ![alt recover_hide_miner_account](../_media/recover_hide_miner_account.png ':size=80%')
 
 
 
 ## Delete Mining Account
 
-1.Visit **Hidden Account** in **Account Settings** and select **Delete Account** to complete the process.
+1. Visit **Hidden Account** in **Account Settings** and select **Delete Account** to complete the process.
 
 > ***Mining accounts need to be hidden first before perform deletion.***
 >

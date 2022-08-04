@@ -8,11 +8,11 @@ After logging in to the master account on [ZKRush](https://www.zkrush.com), clic
 
 ## Set up Anti-Phishing Code
 
-1.Click on the toggle switch of **Anti-Phishing Code** in the **Security Settings**.
+1. Click on the toggle switch of **Anti-Phishing Code** in the **Security Settings**.
 
 ![alt enter_fishcode](../_media/enter_fishcode.png ':size=100%')
 
-2、Configure your Anti-Phishing Code
+2. Configure your Anti-Phishing Code
 
 ![alt enable_fishcode](../_media/enable_fishcode.png ':size=50%')
 

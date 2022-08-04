@@ -8,11 +8,11 @@ After logging in to the master account on [ZKRush](https://www.zkrush.com), clic
 
 #### Update Password
 
-1.Go to the **Account Settings** page and select **Security Settings.**
+1. Go to the **Account Settings** page and select **Security Settings.**
 
 ![alt enter_reset_passwd](../_media/enter_reset_passwd.png ':size=100%')
 
-2、Follow the prompts, enter your current password and the new password, and finally click **Update Password.**
+2. Follow the prompts, enter your current password and the new password, and finally click **Update Password.**
 
 ![alt reset_passwd](../_media/reset_passwd.png ':size=40%')
 
@@ -22,11 +22,11 @@ After logging in to the master account on [ZKRush](https://www.zkrush.com), clic
 
 ## Recover Password
 
-1.Click on Forget Password at the bottom of the login page.
+1. Click on Forget Password at the bottom of the login page.
 
 ![alt forget_passwd](../_media/forget_passwd.png ':size=40%')
 
-2.According to the prompts, enter the email address and click send **verification code**. Fill in the verification code and your password to complete the password reset.
+2. According to the prompts, enter the email address and click send **verification code**. Fill in the verification code and your password to complete the password reset.
 
 ![alt find_forget_passwd](../_media/find_forget_passwd.png ':size=40%')
 
