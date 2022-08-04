@@ -16,7 +16,7 @@ wss://aleo.zkrush:3333
 
 ## 1. Add Mining Account
 
-1.1.Please refer to  [Add Mining Account](/en/_document/miner_account?=Add Mining Account)
+1.1.Please refer to  [Add Mining Account](/en/_document/miner_account?id=add-mining-account)
 
 
 
@@ -75,7 +75,7 @@ CUDA_VISIBLE_DEVICES #Specify a GPU to run, start with GPU0, and single process 
 > ***If you have 2 or more mining devices, we strongly suggest you start a aleo-pool-proxy as a proxy node.***
 
 ```shell
-# 代理節點
+# Proxy Node
 ./aleo-pool-proxy --dest="wss://aleo.zkrush.com:3333" --listen=0.0.0.0:4040 --miner-account=zkrush001 --owner-name=server001
 ```
 
