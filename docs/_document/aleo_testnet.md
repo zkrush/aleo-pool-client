@@ -38,33 +38,82 @@ wss://aleo.zkrush.com:3333
 
 ```shell
 # CPU挖礦
-./aleo-pool-client --dest=ws://aleo.zkrush.com:3030 run --miner-account=zkrush001 --owner-name=server001
+./aleo-pool-client --dest=wss://aleo.zkrush.com:3333 run --miner-account=zkrush001 --owner-name=server001
 ```
+
+
 
 ```shell
 # GPU挖礦
-FORCE_GPU_MINER=1 CUDA_VISIBLE_DEVICES=0 ./aleo-pool-client --dest=ws://aleo.zkrush.com:3030 run --miner-account=zkrush001 --owner-name=server001
+FORCE_GPU_MINER=1 CUDA_VISIBLE_DEVICES=0 ./aleo-pool-client --dest=wss://aleo.zkrush.com:3333 run --miner-account=zkrush001 --owner-name=server001
 ```
 
 **環境變量：**
 
-FORCE_GPU_MINER=1 #指定1為開啟GPU，默認為0
+FORCE_GPU_MINER #指定1為開啟GPU，默認為0
 
-CUDA_VISIBLE_DEVICES=0 #指定GPU卡運行，從0開始；多卡主機分別啟動多個進程
+CUDA_VISIBLE_DEVICES #指定GPU卡運行，從0開始；多卡主機分別啟動多個進程
 
 **啟動參數：**
 
---dest=ws://aleo.zkrush.com:3030 #礦池節點地址
+--dest #礦池節點地址
 
---miner-account=zkrush001 #挖礦賬號
+--miner-account #挖礦賬號
 
---owner-name=server001 #主機名，默認為default
+--owner-name #主機名，默認為default
 
 
 
 ### 3.2、GUI啟動方式
 
 【敬請期待】
+
+
+
+## 4、代理節點（可選项）
+
+### 4.1 aleo-pool-proxy
+
+> ***如有您有2台及以上的挖礦設備，我們強烈建議您在本地啟動aleo-pool-proxy作為代理節點。***
+
+```shell
+# 代理節點
+./aleo-pool-proxy --dest="wss://aleo.zkrush.com:3333" --listen=0.0.0.0:4040 --miner-account=zkrush001 --owner-name=server001
+```
+
+**啟動參數：**
+
+--listen #代理節點監聽端口，默認為0.0.0.0:4040
+
+--dest #礦池節點地址
+
+--miner-account #挖礦賬號
+
+--owner-name #主機名，默認為default
+
+
+
+### 4.2 aleo-pool-client
+
+使用代理節點後，aleo-pool-client程序在啟動時，只需要指定代理節點的IP和Port即可，例如：
+
+```shell
+./aleo-pool-client --proxy="<代理節點IP地址>:4040"
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
