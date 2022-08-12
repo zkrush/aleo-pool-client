@@ -4,8 +4,8 @@
   - **Master Account**
     - [- Sign Up / Sign In Master Account](en/_document/account_login.md)
     - [- Update / Recover Password](en/_document/reset_passwd.md)
-    - [- Two- Factor Authentication](en/_document/mfa_authentication.md)
-    - [- Fish Code](en/_document/fish_code.md)
+    - [- Two-Factor Authentication](en/_document/mfa_authentication.md)
+    - [- Anti-Phishing Code](en/_document/fish_code.md)
   - **Mining Account**
     - [- Add/Hide/Delete Mining Account](en/_document/miner_account.md)
   - **Miner Management**

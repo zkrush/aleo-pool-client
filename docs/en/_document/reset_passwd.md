@@ -22,7 +22,7 @@ After logging in to the master account on [ZKRush](https://www.zkrush.com), clic
 
 ## Recover Password
 
-1. Click on Forget Password at the bottom of the login page.
+1. Click on **Forget Password** at the bottom of the login page.
 
 ![alt forget_passwd](../_media/forget_passwd.png ':size=40%')
 
