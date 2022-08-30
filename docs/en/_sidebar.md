@@ -1,18 +1,18 @@
-- **☞Mining Guide for Beginners**
+- **> Mining Guide for Beginners**
   - [- <font color=red>Aleo Testnet Tutorial</font>](en/_document/aleo_testnet.md)
-- **☞Website Tutorial**
-  - **Master Account**
+- **> Website Tutorial**
+  - **> Master Account**
     - [- Sign Up / Sign In Master Account](en/_document/account_login.md)
     - [- Update / Recover Password](en/_document/reset_passwd.md)
     - [- Two-Factor Authentication](en/_document/mfa_authentication.md)
     - [- Anti-Phishing Code](en/_document/fish_code.md)
-  - **Mining Account**
+  - **> Mining Account**
     - [- Add/Hide/Delete Mining Account](en/_document/miner_account.md)
-  - **Miner Management**
+  - **> Miner Management**
     - [- Worker Hashrate Monitoring](en/_document/miner_hashrate.md)
     - [- Worker Group Management](en/_document/miner_group.md)
-  - **Revenue**
-- **☞Support**
+  - **> Revenue**
+- **> Support**
   - [- Contact Us](en/_document/contact_us.md)
   - [- About Us](en/_document/about_us.md)
   - [- Why choose us](en/_document/our_advantage.md)

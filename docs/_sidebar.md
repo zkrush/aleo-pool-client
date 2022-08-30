@@ -1,18 +1,18 @@
-- **☞挖礦教程**
+- **> 挖礦教程**
   - [- <font color=red>ALEO測試網挖礦教程</font> ](_document/aleo_testnet.md)
-- **☞網站教程**
-  - **主賬戶**
+- **> 網站教程**
+  - **> 主賬戶**
     - [- 註冊/登錄](_document/account_login.md)
     - [- 修改/忘記密碼](_document/reset_passwd.md)
     - [- 雙重驗證](_document/mfa_authentication.md)
     - [- 防釣魚碼](_document/fish_code.md)
-  - **挖礦賬號**
+  - **> 挖礦賬號**
     - [- 添加/隱藏/刪除挖礦賬號](_document/miner_account.md)
-  - **礦工管理**
+  - **> 礦工管理**
     - [- 礦工算力](_document/miner_hashrate.md)
     - [- 礦工分組](_document/miner_group.md)
-  - **收益**
-- **☞支持中心**
+  - **> 收益**
+- **> 支持中心**
   - [- 聯繫我們](_document/contact_us.md)
   - [- 關於我們](_document/about_us.md)
   - [- 我們的優勢](_document/our_advantage.md)
