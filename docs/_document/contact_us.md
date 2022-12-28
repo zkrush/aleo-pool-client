@@ -12,7 +12,3 @@ https://discord.gg/bjTBEMzQKG
 
 https://medium.com/@zkrush
 
-## Support機器人
-
-點擊ZKRush官網右下角直接與我們取得聯繫
-

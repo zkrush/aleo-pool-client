@@ -4,13 +4,13 @@
 
 操作系統：Ubuntu 20.04
 
-GPU：N卡
+GPU：所有N卡都可以使用，推荐6G以上显存，显卡驱动515或以上。
 
 
 
 ## 礦池節點地址
 
-https://aleo.zkrush.com:3333
+tcp://aleo.zkrush.com:3333
 
 
 
@@ -26,19 +26,23 @@ https://aleo.zkrush.com:3333
 
 > ***aleo-pool-prover是ZKRush自研發的aleo挖礦程序，針對GPU挖礦都進行了大量優化***
 
-![alt github_release](../_media/github_release.png ':size=50%')
-
 
 
 ## 3、啟動挖礦客戶端
 
+將客戶端拷貝的礦機上，執行如下命令，賦予程序執行權限
+
 ```shell
-./aleo-pool-prover grpc --dest https://aleo.zkrush.com:3333 --account zkrush001 --machine-name test01
+chmod +x aleo-pool-prover
 ```
 
+替換下面命令中的account為你的挖礦賬號，machine-name替換為你的機器名。執行拉起
 
+```shell
+nohup ./aleo-pool-prover --dest tcp://aleo.zkrush.com:3333 --account account --machine-name machine-name &> prover.log &
+```
 
-**啟動參數：**
+**啟動參數说明：**
 
 --dest #礦池節點地址
 
@@ -46,7 +50,16 @@ https://aleo.zkrush.com:3333
 
 --machine-name #主機名
 
+程序自動初始化並拉起礦機上的所有GPU卡
 
+檢查prover.log日誌，有如下信息，則說明程序運行正常。
+
+```shell
+2022-12-28T11:30:32.719928Z  INFO  GPU{gpu_index=1}: aleo_pool_prover::prover::gpu: proving epoch=1146 proof_target=10000
+2022-12-28T11:30:32.740202Z  INFO  GPU{gpu_index=3}: aleo_pool_prover::prover::gpu: proving epoch=1146 proof_target=10000
+2022-12-28T11:30:32.769954Z  INFO  GPU{gpu_index=5}: aleo_pool_prover::prover::gpu: proving epoch=1146 proof_target=10000
+2022-12-28T11:30:32.818658Z  INFO  GPU{gpu_index=2}: aleo_pool_prover::prover::gpu: proving epoch=1146 proof_target=10000
+```
 
 
 

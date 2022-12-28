@@ -4,13 +4,13 @@
 
 Operation System: Ubuntu 20.04
 
-GPU: Nvidia Series
+GPU: ALL Nvidia Series, 6GB, Driver version 515 or above.
 
 
 
 ## Mining Pool URL
 
-https://aleo.zkrush.com:3333
+tcp://aleo.zkrush.com:3333
 
 
 
@@ -26,25 +26,44 @@ https://aleo.zkrush.com:3333
 
 > ***aleo-pool-prover is a mining program developed by ZKRush, optimized for GPU mining***
 
-![alt github_release](../_media/github_release.png ':size=50%')
-
 
 
 ## 3. Start Mining Client
 
+Copy Client Program to your mining device, Execute command to grant permission
+
 ```shell
-./aleo-pool-prover grpc --dest https://aleo.zkrush.com:3333 --account zkrush001 --machine-name test01
+chmod +x aleo-pool-prover
+```
+
+Replace account in the following command with your mining account, and replace machine-name with your device name
+
+```shell
+nohup ./aleo-pool-prover --dest tcp://aleo.zkrush.com:3333 --account account --machine-name machine-name &> prover.log &
+```
+
+**Startup Option：**
+
+--dest #Mining Pool URL
+
+--account #Mining Account
+
+--machine-name #Device Name
+
+The program automatically initializes and run all GPUs.
+
+check prover.log, If you can see information like these, program running normally.
+
+```shell
+2022-12-28T11:30:32.719928Z  INFO  GPU{gpu_index=1}: aleo_pool_prover::prover::gpu: proving epoch=1146 proof_target=10000
+2022-12-28T11:30:32.740202Z  INFO  GPU{gpu_index=3}: aleo_pool_prover::prover::gpu: proving epoch=1146 proof_target=10000
+2022-12-28T11:30:32.769954Z  INFO  GPU{gpu_index=5}: aleo_pool_prover::prover::gpu: proving epoch=1146 proof_target=10000
+2022-12-28T11:30:32.818658Z  INFO  GPU{gpu_index=2}: aleo_pool_prover::prover::gpu: proving epoch=1146 proof_target=10000
 ```
 
 
 
-**startup options:**
 
---dest #Mining Pool URL
-
---account #Your Mining Account
-
---owner-name #Your Server Name
 
 
 
