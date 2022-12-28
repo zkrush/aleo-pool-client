@@ -6,6 +6,8 @@ Operation System: Ubuntu 20.04
 
 GPU: ALL Nvidia Series, 6GB, Driver version 515 or above.
 
+Driver Download:https://www.nvidia.cn/Download/index.aspx?lang=en
+
 
 
 ## Mining Pool URL

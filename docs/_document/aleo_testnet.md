@@ -6,6 +6,8 @@
 
 GPU：所有N卡都可以使用，推荐6G以上显存，显卡驱动515或以上。
 
+驱动下载：https://www.nvidia.cn/Download/index.aspx?lang=cn
+
 
 
 ## 礦池節點地址
