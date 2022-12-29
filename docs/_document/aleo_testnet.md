@@ -48,7 +48,7 @@ nohup ./aleo-pool-prover --dest tcp://aleo.zkrush.com:3333 --account account --m
 
 --dest #礦池節點地址
 
---account #挖礦賬號
+--account #挖礦賬號，创建请參考文檔 [添加挖礦賬號](/_document/miner_account?id=添加挖礦賬號)
 
 --machine-name #主機名
 

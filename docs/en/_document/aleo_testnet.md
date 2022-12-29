@@ -48,7 +48,7 @@ nohup ./aleo-pool-prover --dest tcp://aleo.zkrush.com:3333 --account account --m
 
 --dest #Mining Pool URL
 
---account #Mining Account
+--account #Mining Account, Please refer to  [Add Mining Account](/en/_document/miner_account?id=add-mining-account)
 
 --machine-name #Device Name
 
