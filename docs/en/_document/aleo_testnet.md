@@ -1,12 +1,12 @@
 # ALEO Testnet
 
-## Supporting Device
+## Minimum Requirements
 
-Operation System: Ubuntu 20.04
+Operating System: Ubuntu 20.04
 
-GPU: ALL Nvidia Series, 6GB, Driver version 515 or above.
+GPU: All Nvidia series, 6GB, driver version 515 or above.
 
-Driver Download:https://www.nvidia.cn/Download/index.aspx?lang=en
+Download driver:https://www.nvidia.cn/Download/index.aspx?lang=en
 
 
 
