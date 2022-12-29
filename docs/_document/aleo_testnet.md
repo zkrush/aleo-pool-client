@@ -32,13 +32,13 @@ tcp://aleo.zkrush.com:3333
 
 ## 3、啟動挖礦客戶端
 
-將客戶端拷貝的礦機上，執行如下命令，賦予程序執行權限
+將客戶端拷貝到礦機上，執行如下命令，賦予程序執行權限
 
 ```shell
 chmod +x aleo-pool-prover
 ```
 
-替換下面命令中的account為你的挖礦賬號，machine-name替換為你的機器名。執行拉起
+將下方命令中的account為你的挖礦賬號，machine-name替換為你的機器名。執行拉起
 
 ```shell
 nohup ./aleo-pool-prover --dest tcp://aleo.zkrush.com:3333 --account account --machine-name machine-name &> prover.log &

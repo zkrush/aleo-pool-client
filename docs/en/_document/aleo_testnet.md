@@ -32,13 +32,13 @@ tcp://aleo.zkrush.com:3333
 
 ## 3. Start Mining Client
 
-Copy Client Program to your mining device, Execute command to grant permission
+Copy the client and then paste it to your mining devices, execute the command to grant permission
 
 ```shell
 chmod +x aleo-pool-prover
 ```
 
-Replace account in the following command with your mining account, and replace machine-name with your device name
+Replace 'account' in the following command with your 'mining account', and replace 'machine-name' with your 'device name'
 
 ```shell
 nohup ./aleo-pool-prover --dest tcp://aleo.zkrush.com:3333 --account account --machine-name machine-name &> prover.log &
