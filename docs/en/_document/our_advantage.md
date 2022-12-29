@@ -1,23 +1,23 @@
 # Why Choose Us
 
-## Leading GPU Algorithm
+### Leading Algorithm
 
-Our world-class R & D team has made extensive optimizations to the zero-knowledge proof algorithm, providing an ultra-experience with GPU mining.
-
- 
-
-## Sound Security System
-
-ZKRush has one of the world's leading security and risk management system to protect users assets and privacy.
+Our professional R&D team has made numerous optimizations and improvements to the Zero Knowledge Proofs algorithm, offering users with an unrivialed GPU mining experience.
 
  
 
-## 24/7 O&M 
+### Professional Architecture
 
-Industry leading operations & maintenance team to guarantee the 7/24 operations of ZKRush.
+Our mining pool is built with a microservice design, which means that applications are built as independent components that can be updated, deployed, and expanded for each service to fulfill the demands of application-specific functionality.
 
  
 
-## All-Round Service
+### Full-Stack Service
 
-Our all-inclusive service is devoted to bridge the gap between mining and trading, and offering a one-stop mining ecosphere.
+ZKRush has professional IDCs, network structures and DevOps team to ensure the 7/24 stable operation of the mining pool.
+
+ 
+
+### Custom Requirements
+
+Based on the customers' diverse hardware environments, our team will assist in lowering the cost of investment in transformation through software adaption to improve our clients' market competitiveness.

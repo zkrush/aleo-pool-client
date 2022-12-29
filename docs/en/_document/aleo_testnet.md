@@ -44,7 +44,7 @@ Replace 'account' in the following command with your 'mining account', and repla
 nohup ./aleo-pool-prover --dest tcp://aleo.zkrush.com:3333 --account account --machine-name machine-name &> prover.log &
 ```
 
-**Startup Option：**
+**Startup Parameters Explained：**
 
 --dest #Mining Pool URL
 
@@ -52,9 +52,9 @@ nohup ./aleo-pool-prover --dest tcp://aleo.zkrush.com:3333 --account account --m
 
 --machine-name #Device Name
 
-The program automatically initializes and run all GPUs.
+The program will automatically initialize and run all GPUs.
 
-check prover.log, If you can see information like these, program running normally.
+Check prover.log, if it matches the info given below, then the program is running properly.
 
 ```shell
 2022-12-28T11:30:32.719928Z  INFO  GPU{gpu_index=1}: aleo_pool_prover::prover::gpu: proving epoch=1146 proof_target=10000
