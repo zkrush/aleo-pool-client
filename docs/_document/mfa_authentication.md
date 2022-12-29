@@ -15,8 +15,6 @@
 2、根據提示，下載**Google Authenticator app**，或者其它兼容應用程序，掃描QRCode或輸入密鑰綁定。
 3、輸入雙重驗證app上的**動態口令**，獲取並輸入**郵箱驗證碼**，**提交**完成雙重驗證開啟。
 
-![alt enable_mfa](../_media/enable_mfa.png ':size=80%')
-
 
 
 ## 關閉雙重驗證
