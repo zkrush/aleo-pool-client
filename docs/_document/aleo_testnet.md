@@ -32,6 +32,12 @@ tcp://aleo.zkrush.com:3333
 
 ## 3、啟動挖礦客戶端
 
+請將下載好的客戶端，mv重命名為aleo-pool-prover
+
+```shell
+mv aleo-pool-prover-ubuntu2004 aleo-pool-prover
+```
+
 將客戶端拷貝到礦機上，執行如下命令，賦予程序執行權限
 
 ```shell

@@ -32,6 +32,12 @@ tcp://aleo.zkrush.com:3333
 
 ## 3. Start Mining Client
 
+Please rename client to 'aleo-pool-prover' via mv
+
+```shell
+mv aleo-pool-prover-ubuntu2004 aleo-pool-prover
+```
+
 Copy the client and then paste it to your mining devices, execute the command to grant permission
 
 ```shell
