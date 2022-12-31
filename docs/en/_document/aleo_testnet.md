@@ -2,7 +2,7 @@
 
 ## Minimum Requirements
 
-Operating System: Ubuntu 20.04
+Operating System: Ubuntu 18.04 , Ubuntu 20.04
 
 GPU: All Nvidia series, 6GB, driver version 515 or above.
 
