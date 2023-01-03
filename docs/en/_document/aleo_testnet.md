@@ -64,7 +64,7 @@ Check prover.log, if it matches the info given below, then the program is runnin
 
 ![prover_log](../_media/prover_log.png)
 
-⚠️If you do not need to output log content, you can replace '&> prover.log &' in the startup command with '> /dev/null 2>&1 &'
+**⚠️If you do not need to output log content, you can replace '&> prover.log &' in the startup command with '> /dev/null 2>&1 &'**
 
 
 
