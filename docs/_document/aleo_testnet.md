@@ -64,11 +64,7 @@ nohup ./aleo-pool-prover --dest tcp://aleo.zkrush.com:3333 --account account --m
 
 ![prover_log](../_media/prover_log.png)
 
-
-
-
-
-
+⚠️如您無需輸出日誌內容，可以將啟動命令中的 '&> prover.log &' 替換為 '> /dev/null 2>&1 &' 
 
 
 
