@@ -44,10 +44,10 @@ mv aleo-pool-prover-ubuntu2004 aleo-pool-prover
 chmod +x aleo-pool-prover
 ```
 
-將下方命令中的account為你的挖礦賬號，machine-name替換為你的機器名。執行拉起
+將下方命令中的account為你的挖礦賬號，machine_name替換為你的機器名。執行拉起
 
 ```shell
-nohup ./aleo-pool-prover --dest tcp://aleo.zkrush.com:3333 --account account --machine-name machine-name &> prover.log &
+nohup ./aleo-pool-prover --dest tcp://aleo.zkrush.com:3333 --account account --machine-name machine_name &> prover.log &
 ```
 
 **啟動參數说明：**

@@ -44,10 +44,10 @@ Copy the client and then paste it to your mining devices, execute the command to
 chmod +x aleo-pool-prover
 ```
 
-Replace 'account' in the following command with your 'mining account', and replace 'machine-name' with your 'device name'
+Replace 'account' in the following command with your 'mining account', and replace 'machine_name' with your 'device name'
 
 ```shell
-nohup ./aleo-pool-prover --dest tcp://aleo.zkrush.com:3333 --account account --machine-name machine-name &> prover.log &
+nohup ./aleo-pool-prover --dest tcp://aleo.zkrush.com:3333 --account account --machine-name machine_name &> prover.log &
 ```
 
 **Startup Parameters Explained：**
