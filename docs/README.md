@@ -79,7 +79,7 @@ The program will automatically initialize and run all GPUs.
 
 Check prover.log, if it matches the info given below, then the program is running properly.
 
-![prover_log](/Users/tyler/Nutstore/Work/IPFS/Pool/docsify/aleo-pool-client/docs/en/_media/prover_log.png)
+![prover_log](./_media/prover_log.png)
 
 **⚠️If you do not need to output log content, you can replace '&> prover.log &' in the startup command with '> /dev/null 2>&1 &'**
 
