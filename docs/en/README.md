@@ -1,4 +1,104 @@
 # **Welcome to ZKRush Document**
 
-![alt zkrush_title01](./_media/zkrush_title01.png ':size=100%')
+
+
+```bash
+          _____                    _____                    _____                    _____                    _____                    _____          
+         /\    \                  /\    \                  /\    \                  /\    \                  /\    \                  /\    \         
+        /::\    \                /::\____\                /::\    \                /::\____\                /::\    \                /::\____\        
+        \:::\    \              /:::/    /               /::::\    \              /:::/    /               /::::\    \              /:::/    /        
+         \:::\    \            /:::/    /               /::::::\    \            /:::/    /               /::::::\    \            /:::/    /         
+          \:::\    \          /:::/    /               /:::/\:::\    \          /:::/    /               /:::/\:::\    \          /:::/    /          
+           \:::\    \        /:::/____/               /:::/__\:::\    \        /:::/    /               /:::/__\:::\    \        /:::/____/           
+            \:::\    \      /::::\    \              /::::\   \:::\    \      /:::/    /                \:::\   \:::\    \      /::::\    \           
+             \:::\    \    /::::::\____\________    /::::::\   \:::\    \    /:::/    /      _____    ___\:::\   \:::\    \    /::::::\    \   _____  
+              \:::\    \  /:::/\:::::::::::\    \  /:::/\:::\   \:::\____\  /:::/____/      /\    \  /\   \:::\   \:::\    \  /:::/\:::\    \ /\    \ 
+_______________\:::\____\/:::/  |:::::::::::\____\/:::/  \:::\   \:::|    ||:::|    /      /::\____\/::\   \:::\   \:::\____\/:::/  \:::\    /::\____\
+\::::::::::::::::::/    /\::/   |::|~~~|~~~~~     \::/   |::::\  /:::|____||:::|____\     /:::/    /\:::\   \:::\   \::/    /\::/    \:::\  /:::/    /
+ \::::::::::::::::/____/  \/____|::|   |           \/____|:::::\/:::/    /  \:::\    \   /:::/    /  \:::\   \:::\   \/____/  \/____/ \:::\/:::/    / 
+  \:::\~~~~\~~~~~~              |::|   |                 |:::::::::/    /    \:::\    \ /:::/    /    \:::\   \:::\    \               \::::::/    /  
+   \:::\    \                   |::|   |                 |::|\::::/    /      \:::\    /:::/    /      \:::\   \:::\____\               \::::/    /   
+    \:::\    \                  |::|   |                 |::| \::/____/        \:::\__/:::/    /        \:::\  /:::/    /               /:::/    /    
+     \:::\    \                 |::|   |                 |::|  ~|               \::::::::/    /          \:::\/:::/    /               /:::/    /     
+      \:::\    \                |::|   |                 |::|   |                \::::::/    /            \::::::/    /               /:::/    /      
+       \:::\____\               \::|   |                 \::|   |                 \::::/    /              \::::/    /               /:::/    /       
+        \::/    /                \:|   |                  \:|   |                  \::/____/                \::/    /                \::/    /        
+         \/____/                  \|___|                   \|___|                   ~~                       \/____/                  \/____/         
+```
+
+
+
+# ALEO Testnet
+
+## Minimum Requirements
+
+Operating System: Ubuntu 18.04 , Ubuntu 20.04
+
+GPU: All Nvidia series, 6GB, driver version 515 or above.
+
+Download driver:https://www.nvidia.com/download/index.aspx
+
+
+
+## Mining Pool URL
+
+tcp://aleo.zkrush.com:3333
+
+
+
+## 1. Add Mining Account
+
+1.1.Please refer to  [Add Mining Account](/en/_document/miner_account?id=add-mining-account)
+
+
+
+## 2. Install Mining Client
+
+ 2.1.Download Address: https://github.com/zkrush/aleo-pool-client/releases
+
+> ***aleo-pool-prover is a mining program developed by ZKRush, Pure GPU solution, no CPU requirement***
+
+
+
+## 3. Start Mining Client
+
+Please rename client to 'aleo-pool-prover' via mv
+
+```shell
+mv aleo-pool-prover-ubuntu2004 aleo-pool-prover
+```
+
+Copy the client and then paste it to your mining devices, execute the command to grant permission
+
+```shell
+chmod +x aleo-pool-prover
+```
+
+Replace 'account' in the following command with your 'mining account', and replace 'machine_name' with your 'device name'
+
+```shell
+nohup ./aleo-pool-prover --dest tcp://aleo.zkrush.com:3333 --account account --machine-name machine_name &> prover.log &
+```
+
+**Startup Parameters Explained：**
+
+--dest #Mining Pool URL
+
+--account #Mining Account, Please refer to  [Add Mining Account](/en/_document/miner_account?id=add-mining-account)
+
+--machine-name #Device Name
+
+The program will automatically initialize and run all GPUs.
+
+Check prover.log, if it matches the info given below, then the program is running properly.
+
+![prover_log](/Users/tyler/Nutstore/Work/IPFS/Pool/docsify/aleo-pool-client/docs/en/_media/prover_log.png)
+
+**⚠️If you do not need to output log content, you can replace '&> prover.log &' in the startup command with '> /dev/null 2>&1 &'**
+
+
+
+
+
+
 
