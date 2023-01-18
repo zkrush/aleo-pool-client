@@ -35,7 +35,7 @@ tcp://aleo.zkrush.com:3333
 
 ## 1. Add Mining Account
 
-1.1.Please refer to  [Add Mining Account](/en/_document/miner_account?id=add-mining-account)
+1.1.Please refer to  [Add Mining Account](https://github.com/zkrush/aleo-pool-client/blob/master/docs/en/_document/miner_account.md)
 
 
 
@@ -71,7 +71,7 @@ nohup ./aleo-pool-prover --dest tcp://aleo.zkrush.com:3333 --account account --m
 
 --dest #Mining Pool URL
 
---account #Mining Account, Please refer to  [Add Mining Account](/en/_document/miner_account?id=add-mining-account)
+--account #Mining Account, Please refer to  [Add Mining Account](https://github.com/zkrush/aleo-pool-client/blob/master/docs/en/_document/miner_account.md)
 
 --machine-name #Device Name
 
@@ -79,7 +79,7 @@ The program will automatically initialize and run all GPUs.
 
 Check prover.log, if it matches the info given below, then the program is running properly.
 
-![prover_log](/Users/tyler/Nutstore/Work/IPFS/Pool/docsify/aleo-pool-client/docs/en/_media/prover_log.png)
+![prover_log](/Users/tyler/Nutstore/Work/IPFS/Pool/docsify/aleo-pool-client/docs/_media/prover_log.png)
 
 **⚠️If you do not need to output log content, you can replace '&> prover.log &' in the startup command with '> /dev/null 2>&1 &'**
 
