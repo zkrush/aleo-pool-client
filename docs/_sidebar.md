@@ -1,5 +1,6 @@
 - **> 挖礦教程**
   - [- <font color=red>ALEO測試網挖礦教程</font> ](_document/aleo_testnet.md)
+  - [- <font color=red>在HiveOS上運行ZKRuh ALEO程序</font> ](_document/aleo_hiveos.md)
 - **> 網站教程**
   - **> 主賬戶**
     - [- 註冊/登錄](_document/account_login.md)
