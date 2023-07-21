@@ -1,10 +1,10 @@
 # 註冊/登錄主賬戶
 
-> ***主賬戶是您訪問[ZKRush](https://www.zkrush.com)的唯一憑據，登錄後才能訪問網站的全部功能。您可以按照以下流程進行註冊和登錄。***
+> ***主賬戶是您訪問[ZKRush](https://pool.zkrush.com)的唯一憑據，登錄後才能訪問網站的全部功能。您可以按照以下流程進行註冊和登錄。***
 
 ## 註冊賬戶
 
-1、打開[ZKRush](https://www.zkrush.com)官網，點擊右上角進行註冊；或直接訪問[註冊頁面](https://www.zkrush.com/signUp)。
+1、打開[ZKRush](https://pool.zkrush.com)官網，點擊右上角進行註冊；或直接訪問[註冊頁面](https://pool.zkrush.com/signUp)。
 
 2、填寫您的**郵箱**、**密碼**提交註冊。
 
@@ -16,7 +16,7 @@
 
 ## 登錄賬戶
 
-1、打開[ZKRush](https://www.zkrush.com)官網，點擊右上角進行登錄；或直接訪問[登錄頁面](https://www.zkrush.com/login)。
+1、打開[ZKRush](https://pool.zkrush.com)官網，點擊右上角進行登錄；或直接訪問[登錄頁面](https://pool.zkrush.com/login)。
 
 2、輸入您的**郵箱**、**密碼**提交登錄。
 

@@ -1,4 +1,4 @@
-- [**☞ZKRush**](https://www.zkrush.com)
+- [**☞ZKRush**](https://pool.zkrush.com)
 - **🇨🇳 中文**
   - [🇨🇳 中文](/README.md) 
   - [🇺🇸 English](en/README.md)

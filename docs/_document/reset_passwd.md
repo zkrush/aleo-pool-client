@@ -1,6 +1,6 @@
 # 修改/忘記密碼
 
-在[ZKRush](https://www.zkrush.com)官網登錄**主賬號**後，點擊右上角頭像進入**賬戶設置**
+在[ZKRush](https://pool.zkrush.com)官網登錄**主賬號**後，點擊右上角頭像進入**賬戶設置**
 
 ![alt enter_account_setting](../_media/enter_account_setting.png ':size=50%')
 
@@ -22,7 +22,7 @@
 
 ## 忘記密碼
 
-1、在[登錄頁面](https://www.zkrush.com/login)下方點擊**忘記密碼**。
+1、在[登錄頁面](https://pool.zkrush.com/login)下方點擊**忘記密碼**。
 
 ![alt forget_passwd](../_media/forget_passwd.png ':size=40%')
 

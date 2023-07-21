@@ -2,5 +2,5 @@
 
 > Zero Knowledge For Everyone
 
-[ZKRush](https://www.zkrush.com/)
+[ZKRush](https://pool.zkrush.com/)
 [Get Started](README.md)

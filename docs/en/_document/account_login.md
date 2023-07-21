@@ -4,7 +4,7 @@
 
 ## Register
 
-1.Visit [ZKRush](https://www.zkrush.com) website and click on the upper right corner to register; or directly visit the [registration page](https://www.zkrush.com/signUp).
+1.Visit [ZKRush](https://pool.zkrush.com) website and click on the upper right corner to register; or directly visit the [registration page](https://pool.zkrush.com/signUp).
 
 2.Fill in your **email** and **password** to submit registration.
 
@@ -16,7 +16,7 @@
 
 ## Sign In
 
-1.Visit [ZKRush](https://www.zkrush.com) Websiite and click on the upper right corner to register; or directly visit the [registration page](https://www.zkrush.com/login).
+1.Visit [ZKRush](https://pool.zkrush.com) Websiite and click on the upper right corner to register; or directly visit the [registration page](https://pool.zkrush.com/login).
 
 2.Enter your **account** (email) and **password** to submit and log in.
 

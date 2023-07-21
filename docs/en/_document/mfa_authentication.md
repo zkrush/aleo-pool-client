@@ -1,6 +1,6 @@
 # Two-Factor Authentication (2FA)
 
-After logging in to the master account on [ZKRush](https://www.zkrush.com), click the **avatar** in the upper right corner to access the **Account Settings**.
+After logging in to the master account on [ZKRush](https://pool.zkrush.com), click the **avatar** in the upper right corner to access the **Account Settings**.
 
 ![alt enter_account_setting](../_media/enter_account_setting.png ':size=50%')
 

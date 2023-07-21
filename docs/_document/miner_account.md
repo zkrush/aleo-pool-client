@@ -1,6 +1,6 @@
 # 添加/隱藏/刪除挖礦賬號
 
-在[ZKRush](https://www.zkrush.com)官網登錄**主賬號**後，點擊右上角頭像進入**賬戶設置**
+在[ZKRush](https://pool.zkrush.com)官網登錄**主賬號**後，點擊右上角頭像進入**賬戶設置**
 
 ![alt enter_account_setting](../_media/enter_account_setting.png ':size=50%')
 
