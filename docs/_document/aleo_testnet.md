@@ -12,7 +12,7 @@ GPU：所有N卡都可以使用，推荐6G以上显存，显卡驱动515或以�
 
 ## 礦池節點地址
 
-tcp://aleo.zkrush.com:3333
+https://aleo.zkrush.com:3334
 
 
 
@@ -47,7 +47,7 @@ chmod +x aleo-pool-prover
 將下方命令中的account為你的挖礦賬號，machine_name替換為你的機器名。執行拉起
 
 ```shell
-nohup ./aleo-pool-prover --dest tcp://aleo.zkrush.com:3333 --account account --machine-name machine_name &> prover.log &
+nohup ./aleo-pool-prover --dest https://aleo.zkrush.com:3334 --account account --machine-name machine_name &> prover.log &
 ```
 
 **啟動參數说明：**
@@ -65,5 +65,4 @@ nohup ./aleo-pool-prover --dest tcp://aleo.zkrush.com:3333 --account account --m
 ![prover_log](../_media/prover_log.png)
 
 **⚠️如您無需輸出日誌內容，可以將啟動命令中的 '&> prover.log &' 替換為 '> /dev/null 2>&1 &'** 
-
 

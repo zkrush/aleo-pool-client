@@ -19,8 +19,6 @@
 
 ⚠️如未創建過挖礦地址，參考文檔 [添加挖礦賬號](/_document/miner_account?id=添加挖礦賬號)
 
-![show_account](../_media/show_account.png ':size=50%')
-
 
 
 ## 二、創建飛行表
@@ -44,9 +42,9 @@
 ![hive_create_custom](../_media/hive_create_custom.png ':size=50%')
 
 ```shell
-1、安裝鏈接輸入【https://github.com/zkrush/aleo-pool-client/releases/download/v1.2/zkrushminer-v1.2.tar.gz】
+1、安裝鏈接輸入【https://github.com/zkrush/aleo-pool-client/releases/download/v1.3-Beta/aleo-pool-prover-hiveos.tar.gz】
 2、錢包與礦機模版輸入【%WAL%.%WORKER_NAME%】
-3、礦池地址輸入【tcp://aleo.zkrush.com:3333】
+3、礦池地址輸入【https://aleo.zkrush.com:3334】
 4、點擊【應用更改】
 ```
 

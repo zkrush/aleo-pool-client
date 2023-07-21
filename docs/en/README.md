@@ -29,7 +29,7 @@ Download driver:https://www.nvidia.com/download/index.aspx
 
 ## Mining Pool URL
 
-tcp://aleo.zkrush.com:3333
+https://aleo.zkrush.com:3334
 
 
 
@@ -64,7 +64,7 @@ chmod +x aleo-pool-prover
 Replace 'account' in the following command with your 'mining account', and replace 'machine_name' with your 'device name'
 
 ```shell
-nohup ./aleo-pool-prover --dest tcp://aleo.zkrush.com:3333 --account account --machine-name machine_name &> prover.log &
+nohup ./aleo-pool-prover --dest https://aleo.zkrush.com:3334 --account account --machine-name machine_name &> prover.log &
 ```
 
 **Startup Parameters Explained：**

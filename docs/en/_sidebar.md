@@ -1,5 +1,6 @@
 - **> Mining Guide for Beginners**
   - [- <font color=red>Aleo Testnet Tutorial</font>](en/_document/aleo_testnet.md)
+  - [- <font color=red>Aleo HiveOS Tutorial</font>](en/_document/aleo_hiveos.md)
 - **> Website Tutorial**
   - **> Master Account**
     - [- Sign Up / Sign In Master Account](en/_document/account_login.md)
