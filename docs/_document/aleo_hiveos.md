@@ -44,7 +44,7 @@
 ```shell
 1、安裝鏈接輸入【https://github.com/zkrush/aleo-pool-client/releases/download/v1.3-Beta/aleo-pool-prover-hiveos.tar.gz】
 2、錢包與礦機模版輸入【%WAL%.%WORKER_NAME%】
-3、礦池地址輸入【wss://aleo.zkrush.com:6020】
+3、礦池地址輸入【https://aleo.zkrush.com:3334】
 4、點擊【應用更改】
 ```
 

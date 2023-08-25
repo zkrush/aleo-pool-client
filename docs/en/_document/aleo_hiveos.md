@@ -42,7 +42,7 @@
 ```shell
 1. Input [https://github.com/zkrush/aleo-pool-client/releases/download/v1.3-Beta/aleo-pool-prover-hiveos.tar.gz]
 2. Input [%WAL%.%WORKER_NAME%] into [Wallet and worker template]
-3. Input [wss://aleo.zkrush.com:6020] into [Pool URL]
+3. Input [https://aleo.zkrush.com:3334] into [Pool URL]
 4. Click [Apply Changes]
 5、Click [Create Flight Sheet]
 ```
