@@ -1,0 +1,4 @@
+- [**☞ZKRush**](https://pool.zkrush.com)
+- **🇨🇳 中文**
+  - [🇨🇳 中文](https://zkrush.gitbook.io/zkrush-wen-dang/wa-kuang-jiao-cheng/aleo-ce-shi-wang-wa-kuang-jiao-cheng) 
+  - [🇺🇸 English](https://zkrush.gitbook.io/zkrush-document/mining-guide-for-beginners/aleo-testnet)
